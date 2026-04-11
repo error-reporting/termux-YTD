@@ -1,5 +1,5 @@
 # termux-YTD
-termux-YTD+ script to install yt-dlp and ffmpeg on termux (Android)
+termux-YTD+ script to install yt-dlp,  ffmpeg or as a companion to termux desktop https://github.com/sabamdarif/termux-desktop
 
 To use this script,
 
