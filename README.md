@@ -9,7 +9,7 @@ Download termux APK from F-Droid or GitHub since play store version is deprecate
 Open termux, and paste the following command
 
 ```
-curl -sL "https://gist.githubusercontent.com/error-reporting/b087ec0cb8ed4d143843666702235c82/raw/dc63c1381b10c2421521da302df2351b926566bc/install.sh" -O && chmod a+rx install.sh && ./install.sh
+curl -sL "https://gist.githubusercontent.com/error-reporting/b087ec0cb8ed4d143843666702235c82/raw/b0d20906af495e92cbfc99f2d53227d605bffec5/install.sh" -O && chmod a+rx install.sh && ./install.sh
 ```
 
 or use this if you already downloaded the script
