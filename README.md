@@ -24,13 +24,14 @@ when Configuration file '/data/data/com.termux/files/usr/etc/apt/sources.list' a
 
 the app will ask for storage access, allow it by tapping on 'Yes'.
 
-if already installed then invoke it with
+if already installed then invoke it with the command below
 
 ```
 ~/bin/termux-url-opener
 ```
+then paste the video or audio link
 
-Usage
+Usage:
 Tap on share for the video that you wanted to download, and choose termux, download will start automatically. (for this method to work, you might need to give "Draw over other apps" permission to termux) or invoke
 ```
 ~/bin/termux-url-opener "https://www.youtube.com/watch?v=VIDEO_ID"
