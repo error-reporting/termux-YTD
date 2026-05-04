@@ -34,7 +34,7 @@ then paste the video or audio link
 Usage:
 Tap on share for the video that you wanted to download, and choose termux, download will start automatically. (for this method to work, you might need to give "Draw over other apps" permission to termux) or invoke
 ```
-~/bin/termux-url-opener "https://www.youtube.com/watch?v=VIDEO_ID"
+~/bin/termux-url-opener "<https://www.youtube.com/watch?v=VIDEO_ID>"
 ```
 replace
-> https://www.youtube.com/watch?v=VIDEO_ID with your actual video link
+> <https://www.youtube.com/watch?v=VIDEO_ID> with your actual video link
