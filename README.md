@@ -37,4 +37,4 @@ Tap on share for the video that you wanted to download, and choose termux, downl
 ~/bin/termux-url-opener "<https://www.youtube.com/watch?v=VIDEO_ID>"
 ```
 replace
-> <https://www.youtube.com/watch?v=VIDEO_ID> with your actual video link
+> `<https://www.youtube.com/watch?v=VIDEO_ID>` in the double quote with your actual video link
